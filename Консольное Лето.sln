@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Консольное Лето", "Консольное Лето\Консольное Лето.vcxproj", "{25913FCB-F986-4D02-B56F-B53D32FF21E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Debug|x64.ActiveCfg = Debug|x64
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Debug|x64.Build.0 = Debug|x64
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Debug|x86.ActiveCfg = Debug|Win32
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Debug|x86.Build.0 = Debug|Win32
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Release|x64.ActiveCfg = Release|x64
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Release|x64.Build.0 = Release|x64
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Release|x86.ActiveCfg = Release|Win32
+		{25913FCB-F986-4D02-B56F-B53D32FF21E3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD76A1A0-BCC2-45A3-8CBB-5BD53EA3361E}
+	EndGlobalSection
+EndGlobal
